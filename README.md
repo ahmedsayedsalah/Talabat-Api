@@ -1,4 +1,4 @@
-# ECommerce
+# Talabat
 
 ## Table of Contents
 - [Introduction](#introduction)
