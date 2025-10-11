@@ -12,7 +12,7 @@ This project is a comprehensive e-commerce web api that allows users to browse, 
 - CRUD Operations  
 - Dependency Injection  
 - EF Core 
-- LINQ  
+- LINQ
 - AutoMapper and View Models  
 - Image Resolver Functionality  
 - Asynchronous Programming  
